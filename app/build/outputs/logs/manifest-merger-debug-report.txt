@@ -1,0 +1,397 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/coreysmith/Downloads/mlkit-android-master/translate/starter/app/src/main/AndroidManifest.xml:19:1-44:12
+INJECTED from /Users/coreysmith/Downloads/mlkit-android-master/translate/starter/app/src/main/AndroidManifest.xml:19:1-44:12
+INJECTED from /Users/coreysmith/Downloads/mlkit-android-master/translate/starter/app/src/main/AndroidManifest.xml:19:1-44:12
+INJECTED from /Users/coreysmith/Downloads/mlkit-android-master/translate/starter/app/src/main/AndroidManifest.xml:19:1-44:12
+MERGED from [androidx.camera:camera-view:1.0.0-alpha12] /Users/coreysmith/.gradle/caches/transforms-3/97198c8c9e28d821f02c42e6be8981c9/transformed/jetified-camera-view-1.0.0-alpha12/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/coreysmith/.gradle/caches/transforms-3/069cbe0d5dc0f05fd9ee55c82b34114d/transformed/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /Users/coreysmith/.gradle/caches/transforms-3/fe3b5fb1048f994e7a83f944fd58b2c2/transformed/jetified-fragment-ktx-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.1.0] /Users/coreysmith/.gradle/caches/transforms-3/2b3fd021614e717a83ec9ce81aa94637/transformed/jetified-activity-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.3.0] /Users/coreysmith/.gradle/caches/transforms-3/0141b71734882b3d18b485716763e3c6/transformed/jetified-core-ktx-1.3.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/coreysmith/.gradle/caches/transforms-3/5dd4dedf518796ed81ee73131e674806/transformed/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/coreysmith/.gradle/caches/transforms-3/2fb4dd52a12d7e9482ff61bdc8ea4ab2/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /Users/coreysmith/.gradle/caches/transforms-3/611c0e200a37243824647c1cbb93af3e/transformed/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.camera:camera-camera2:1.0.0-beta05] /Users/coreysmith/.gradle/caches/transforms-3/a7fc200aafe2543ef477c57d1cb5e9e9/transformed/jetified-camera-camera2-1.0.0-beta05/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.camera:camera-lifecycle:1.0.0-beta05] /Users/coreysmith/.gradle/caches/transforms-3/80ea61fc1c12b9fa933e991d6780fe91/transformed/jetified-camera-lifecycle-1.0.0-beta05/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.camera:camera-core:1.0.0-beta05] /Users/coreysmith/.gradle/caches/transforms-3/15b481df7fbd5fb3b1c6e059efc6cf5c/transformed/jetified-camera-core-1.0.0-beta05/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-mlkit-text-recognition:18.0.0] /Users/coreysmith/.gradle/caches/transforms-3/cd14e98b50384ff01330e648e2025a33/transformed/jetified-play-services-mlkit-text-recognition-18.0.0/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.mlkit:language-id:17.0.3] /Users/coreysmith/.gradle/caches/transforms-3/382323ad0de5f14012e8340f21027624/transformed/jetified-language-id-17.0.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.mlkit:translate:17.0.0] /Users/coreysmith/.gradle/caches/transforms-3/6ae84341440be370ead2053e3eaae306/transformed/jetified-translate-17.0.0/AndroidManifest.xml:2:1-20:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/coreysmith/.gradle/caches/transforms-3/b344510b0d7c85325f47df8a6378caa5/transformed/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/coreysmith/.gradle/caches/transforms-3/09b3f3f906e58580232ad8b2bb1f0333/transformed/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/coreysmith/.gradle/caches/transforms-3/c09d2735aa6022ddcc187cd65b46489f/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/coreysmith/.gradle/caches/transforms-3/36cd169062da3f001660699df66ad493/transformed/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/coreysmith/.gradle/caches/transforms-3/b539a151605dee6f4adaa3f52f7ab73f/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-mlkit-text-recognition-common:17.0.0] /Users/coreysmith/.gradle/caches/transforms-3/59eb51f9bdb68e96f10216731ebdb8c5/transformed/jetified-play-services-mlkit-text-recognition-common-17.0.0/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.android.gms:play-services-mlkit-language-id:17.0.0-beta1] /Users/coreysmith/.gradle/caches/transforms-3/cf15f36fc7cdbd5a39c0bc6eab91f135/transformed/jetified-play-services-mlkit-language-id-17.0.0-beta1/AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.mlkit:vision-common:17.0.0] /Users/coreysmith/.gradle/caches/transforms-3/b95d4277f2cc5a8b78ccbfd73d626a97/transformed/jetified-vision-common-17.0.0/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.mlkit:common:18.0.0] /Users/coreysmith/.gradle/caches/transforms-3/bff048da779e42c3183f1593e068c878/transformed/jetified-common-18.0.0/AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/coreysmith/.gradle/caches/transforms-3/cdfcf99491bbc7df1a3e3ad485588cfb/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.mlkit:vision-interfaces:16.0.0] /Users/coreysmith/.gradle/caches/transforms-3/1366a81b9268d3c61efcac236b83633f/transformed/jetified-vision-interfaces-16.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/coreysmith/.gradle/caches/transforms-3/65187d98d2324b6496ba67b429adf4ba/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/coreysmith/.gradle/caches/transforms-3/dd84e01e8168e0581db4045ca48fa1ad/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.2.4] /Users/coreysmith/.gradle/caches/transforms-3/0f6a0697c20526110ef5674ab5effe6f/transformed/fragment-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/coreysmith/.gradle/caches/transforms-3/e50b98941838fdeec44b222208ed69c8/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/coreysmith/.gradle/caches/transforms-3/03e92bb52be974a46bbabc42c5d68110/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/coreysmith/.gradle/caches/transforms-3/b652751b08e62bd943fd9a99ba323bfd/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/coreysmith/.gradle/caches/transforms-3/2b690c2cd7d00dd72d2a8fa57cae2e86/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/coreysmith/.gradle/caches/transforms-3/2db1395ff0cece4d55685f16e68e76e9/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] /Users/coreysmith/.gradle/caches/transforms-3/c0d0fe984c27eda67e2f82164aab81b1/transformed/jetified-activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.0] /Users/coreysmith/.gradle/caches/transforms-3/4e5cdf88176b6c876a418af428e018cc/transformed/core-1.3.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/coreysmith/.gradle/caches/transforms-3/e44860c089a7f3e22cf5c8a264e305eb/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/coreysmith/.gradle/caches/transforms-3/6847cd5bb73396666caad04c0837f0c1/transformed/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/coreysmith/.gradle/caches/transforms-3/b120d97c46250594c1477bf0a175066c/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/coreysmith/.gradle/caches/transforms-3/55673aa235ab7da235e68b64c00033e8/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/coreysmith/.gradle/caches/transforms-3/d81273881098097cc9bc15fa7e44fa1e/transformed/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/coreysmith/.gradle/caches/transforms-3/caeb875bff1635cc555d5ef41c744f69/transformed/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/coreysmith/.gradle/caches/transforms-3/8f2ec2554e605b061f551bb30f40c2fb/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/coreysmith/.gradle/caches/transforms-3/0cf1c05547737ec5a1d0af79d20f1bfb/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/coreysmith/.gradle/caches/transforms-3/b0360e62cf78022732a6f43ea38c7a7e/transformed/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/coreysmith/.gradle/caches/transforms-3/b66a230077ccae02e4955d5cb3cc545c/transformed/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:16.1.0] /Users/coreysmith/.gradle/caches/transforms-3/b2bb380aeee929009e693c2ad562816c/transformed/jetified-firebase-components-16.1.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/coreysmith/.gradle/caches/transforms-3/a17b82e944bcf5971c3cde9d8969d203/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/coreysmith/.gradle/caches/transforms-3/c496b1473ed11567c23a01df0911c21b/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] /Users/coreysmith/.gradle/caches/transforms-3/4406b820e1693fbefcd58799d61734cd/transformed/jetified-transport-api-2.2.1/AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] /Users/coreysmith/.gradle/caches/transforms-3/64cdaeb60738d3f78c9720a7d4f7afaf/transformed/jetified-firebase-encoders-json-17.1.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/coreysmith/.gradle/caches/transforms-3/a537a0ea9bac11cd8fbc28465f06f04b/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/coreysmith/.gradle/caches/transforms-3/1e72ed74fbfdc459ff340250da41ac36/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0-rc01] /Users/coreysmith/.gradle/caches/transforms-3/57fc9cd982d1ddf5f54c03fafa5efddd/transformed/jetified-annotation-experimental-1.0.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/coreysmith/.gradle/caches/transforms-3/98cf285c8b82c074dd2a265622dbe743/transformed/jetified-image-1.0.0-beta1/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/coreysmith/Downloads/mlkit-android-master/translate/starter/app/src/main/AndroidManifest.xml:19:1-44:12
+INJECTED from /Users/coreysmith/Downloads/mlkit-android-master/translate/starter/app/src/main/AndroidManifest.xml:19:1-44:12
+INJECTED from /Users/coreysmith/Downloads/mlkit-android-master/translate/starter/app/src/main/AndroidManifest.xml:19:1-44:12
+	package
+		ADDED from /Users/coreysmith/Downloads/mlkit-android-master/translate/starter/app/src/main/AndroidManifest.xml:20:5-50
+		INJECTED from /Users/coreysmith/Downloads/mlkit-android-master/translate/starter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/coreysmith/Downloads/mlkit-android-master/translate/starter/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/coreysmith/Downloads/mlkit-android-master/translate/starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/coreysmith/Downloads/mlkit-android-master/translate/starter/app/src/main/AndroidManifest.xml:19:1-44:12
+		INJECTED from /Users/coreysmith/Downloads/mlkit-android-master/translate/starter/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/coreysmith/Downloads/mlkit-android-master/translate/starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/coreysmith/Downloads/mlkit-android-master/translate/starter/app/src/main/AndroidManifest.xml:19:1-44:12
+		INJECTED from /Users/coreysmith/Downloads/mlkit-android-master/translate/starter/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/coreysmith/Downloads/mlkit-android-master/translate/starter/app/src/main/AndroidManifest.xml:19:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /Users/coreysmith/Downloads/mlkit-android-master/translate/starter/app/src/main/AndroidManifest.xml:22:5-65
+	android:name
+		ADDED from /Users/coreysmith/Downloads/mlkit-android-master/translate/starter/app/src/main/AndroidManifest.xml:22:22-62
+application
+ADDED from /Users/coreysmith/Downloads/mlkit-android-master/translate/starter/app/src/main/AndroidManifest.xml:24:5-42:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/coreysmith/.gradle/caches/transforms-3/5dd4dedf518796ed81ee73131e674806/transformed/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/coreysmith/.gradle/caches/transforms-3/5dd4dedf518796ed81ee73131e674806/transformed/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/coreysmith/.gradle/caches/transforms-3/2fb4dd52a12d7e9482ff61bdc8ea4ab2/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/coreysmith/.gradle/caches/transforms-3/2fb4dd52a12d7e9482ff61bdc8ea4ab2/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.mlkit:translate:17.0.0] /Users/coreysmith/.gradle/caches/transforms-3/6ae84341440be370ead2053e3eaae306/transformed/jetified-translate-17.0.0/AndroidManifest.xml:10:5-18:19
+MERGED from [com.google.mlkit:translate:17.0.0] /Users/coreysmith/.gradle/caches/transforms-3/6ae84341440be370ead2053e3eaae306/transformed/jetified-translate-17.0.0/AndroidManifest.xml:10:5-18:19
+MERGED from [com.google.android.gms:play-services-mlkit-text-recognition-common:17.0.0] /Users/coreysmith/.gradle/caches/transforms-3/59eb51f9bdb68e96f10216731ebdb8c5/transformed/jetified-play-services-mlkit-text-recognition-common-17.0.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.android.gms:play-services-mlkit-text-recognition-common:17.0.0] /Users/coreysmith/.gradle/caches/transforms-3/59eb51f9bdb68e96f10216731ebdb8c5/transformed/jetified-play-services-mlkit-text-recognition-common-17.0.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.android.gms:play-services-mlkit-language-id:17.0.0-beta1] /Users/coreysmith/.gradle/caches/transforms-3/cf15f36fc7cdbd5a39c0bc6eab91f135/transformed/jetified-play-services-mlkit-language-id-17.0.0-beta1/AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.android.gms:play-services-mlkit-language-id:17.0.0-beta1] /Users/coreysmith/.gradle/caches/transforms-3/cf15f36fc7cdbd5a39c0bc6eab91f135/transformed/jetified-play-services-mlkit-language-id-17.0.0-beta1/AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.mlkit:vision-common:17.0.0] /Users/coreysmith/.gradle/caches/transforms-3/b95d4277f2cc5a8b78ccbfd73d626a97/transformed/jetified-vision-common-17.0.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.mlkit:vision-common:17.0.0] /Users/coreysmith/.gradle/caches/transforms-3/b95d4277f2cc5a8b78ccbfd73d626a97/transformed/jetified-vision-common-17.0.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.mlkit:common:18.0.0] /Users/coreysmith/.gradle/caches/transforms-3/bff048da779e42c3183f1593e068c878/transformed/jetified-common-18.0.0/AndroidManifest.xml:8:5-24:19
+MERGED from [com.google.mlkit:common:18.0.0] /Users/coreysmith/.gradle/caches/transforms-3/bff048da779e42c3183f1593e068c878/transformed/jetified-common-18.0.0/AndroidManifest.xml:8:5-24:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/coreysmith/.gradle/caches/transforms-3/cdfcf99491bbc7df1a3e3ad485588cfb/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/coreysmith/.gradle/caches/transforms-3/cdfcf99491bbc7df1a3e3ad485588cfb/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/coreysmith/.gradle/caches/transforms-3/65187d98d2324b6496ba67b429adf4ba/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/coreysmith/.gradle/caches/transforms-3/65187d98d2324b6496ba67b429adf4ba/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/coreysmith/.gradle/caches/transforms-3/dd84e01e8168e0581db4045ca48fa1ad/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/coreysmith/.gradle/caches/transforms-3/dd84e01e8168e0581db4045ca48fa1ad/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.core:core:1.3.0] /Users/coreysmith/.gradle/caches/transforms-3/4e5cdf88176b6c876a418af428e018cc/transformed/core-1.3.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.0] /Users/coreysmith/.gradle/caches/transforms-3/4e5cdf88176b6c876a418af428e018cc/transformed/core-1.3.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/coreysmith/.gradle/caches/transforms-3/e44860c089a7f3e22cf5c8a264e305eb/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/coreysmith/.gradle/caches/transforms-3/e44860c089a7f3e22cf5c8a264e305eb/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:24:5-30:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/coreysmith/.gradle/caches/transforms-3/a17b82e944bcf5971c3cde9d8969d203/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/coreysmith/.gradle/caches/transforms-3/a17b82e944bcf5971c3cde9d8969d203/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/coreysmith/.gradle/caches/transforms-3/c496b1473ed11567c23a01df0911c21b/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/coreysmith/.gradle/caches/transforms-3/c496b1473ed11567c23a01df0911c21b/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:25:5-39:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/coreysmith/.gradle/caches/transforms-3/a537a0ea9bac11cd8fbc28465f06f04b/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/coreysmith/.gradle/caches/transforms-3/a537a0ea9bac11cd8fbc28465f06f04b/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/coreysmith/.gradle/caches/transforms-3/98cf285c8b82c074dd2a265622dbe743/transformed/jetified-image-1.0.0-beta1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/coreysmith/.gradle/caches/transforms-3/98cf285c8b82c074dd2a265622dbe743/transformed/jetified-image-1.0.0-beta1/AndroidManifest.xml:7:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.0] /Users/coreysmith/.gradle/caches/transforms-3/4e5cdf88176b6c876a418af428e018cc/transformed/core-1.3.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/coreysmith/Downloads/mlkit-android-master/translate/starter/app/src/main/AndroidManifest.xml:29:9-35
+	android:label
+		ADDED from /Users/coreysmith/Downloads/mlkit-android-master/translate/starter/app/src/main/AndroidManifest.xml:27:9-41
+	android:roundIcon
+		ADDED from /Users/coreysmith/Downloads/mlkit-android-master/translate/starter/app/src/main/AndroidManifest.xml:28:9-54
+	android:icon
+		ADDED from /Users/coreysmith/Downloads/mlkit-android-master/translate/starter/app/src/main/AndroidManifest.xml:26:9-43
+	android:allowBackup
+		ADDED from /Users/coreysmith/Downloads/mlkit-android-master/translate/starter/app/src/main/AndroidManifest.xml:25:9-35
+	android:theme
+		ADDED from /Users/coreysmith/Downloads/mlkit-android-master/translate/starter/app/src/main/AndroidManifest.xml:30:9-40
+activity#com.google.mlkit.showcase.translate.MainActivity
+ADDED from /Users/coreysmith/Downloads/mlkit-android-master/translate/starter/app/src/main/AndroidManifest.xml:31:9-37:20
+	android:screenOrientation
+		ADDED from /Users/coreysmith/Downloads/mlkit-android-master/translate/starter/app/src/main/AndroidManifest.xml:31:83-119
+	android:name
+		ADDED from /Users/coreysmith/Downloads/mlkit-android-master/translate/starter/app/src/main/AndroidManifest.xml:31:19-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/coreysmith/Downloads/mlkit-android-master/translate/starter/app/src/main/AndroidManifest.xml:32:13-36:29
+action#android.intent.action.MAIN
+ADDED from /Users/coreysmith/Downloads/mlkit-android-master/translate/starter/app/src/main/AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from /Users/coreysmith/Downloads/mlkit-android-master/translate/starter/app/src/main/AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/coreysmith/Downloads/mlkit-android-master/translate/starter/app/src/main/AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from /Users/coreysmith/Downloads/mlkit-android-master/translate/starter/app/src/main/AndroidManifest.xml:35:27-74
+meta-data#com.google.ml.vision.DEPENDENCIES
+ADDED from /Users/coreysmith/Downloads/mlkit-android-master/translate/starter/app/src/main/AndroidManifest.xml:39:9-41:35
+	android:value
+		ADDED from /Users/coreysmith/Downloads/mlkit-android-master/translate/starter/app/src/main/AndroidManifest.xml:41:13-32
+	android:name
+		ADDED from /Users/coreysmith/Downloads/mlkit-android-master/translate/starter/app/src/main/AndroidManifest.xml:40:13-61
+uses-sdk
+INJECTED from /Users/coreysmith/Downloads/mlkit-android-master/translate/starter/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/coreysmith/Downloads/mlkit-android-master/translate/starter/app/src/main/AndroidManifest.xml
+INJECTED from /Users/coreysmith/Downloads/mlkit-android-master/translate/starter/app/src/main/AndroidManifest.xml
+MERGED from [androidx.camera:camera-view:1.0.0-alpha12] /Users/coreysmith/.gradle/caches/transforms-3/97198c8c9e28d821f02c42e6be8981c9/transformed/jetified-camera-view-1.0.0-alpha12/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-view:1.0.0-alpha12] /Users/coreysmith/.gradle/caches/transforms-3/97198c8c9e28d821f02c42e6be8981c9/transformed/jetified-camera-view-1.0.0-alpha12/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/coreysmith/.gradle/caches/transforms-3/069cbe0d5dc0f05fd9ee55c82b34114d/transformed/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/coreysmith/.gradle/caches/transforms-3/069cbe0d5dc0f05fd9ee55c82b34114d/transformed/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /Users/coreysmith/.gradle/caches/transforms-3/fe3b5fb1048f994e7a83f944fd58b2c2/transformed/jetified-fragment-ktx-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /Users/coreysmith/.gradle/caches/transforms-3/fe3b5fb1048f994e7a83f944fd58b2c2/transformed/jetified-fragment-ktx-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] /Users/coreysmith/.gradle/caches/transforms-3/2b3fd021614e717a83ec9ce81aa94637/transformed/jetified-activity-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] /Users/coreysmith/.gradle/caches/transforms-3/2b3fd021614e717a83ec9ce81aa94637/transformed/jetified-activity-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.3.0] /Users/coreysmith/.gradle/caches/transforms-3/0141b71734882b3d18b485716763e3c6/transformed/jetified-core-ktx-1.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.0] /Users/coreysmith/.gradle/caches/transforms-3/0141b71734882b3d18b485716763e3c6/transformed/jetified-core-ktx-1.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/coreysmith/.gradle/caches/transforms-3/5dd4dedf518796ed81ee73131e674806/transformed/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/coreysmith/.gradle/caches/transforms-3/5dd4dedf518796ed81ee73131e674806/transformed/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/coreysmith/.gradle/caches/transforms-3/2fb4dd52a12d7e9482ff61bdc8ea4ab2/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/coreysmith/.gradle/caches/transforms-3/2fb4dd52a12d7e9482ff61bdc8ea4ab2/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /Users/coreysmith/.gradle/caches/transforms-3/611c0e200a37243824647c1cbb93af3e/transformed/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /Users/coreysmith/.gradle/caches/transforms-3/611c0e200a37243824647c1cbb93af3e/transformed/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-camera2:1.0.0-beta05] /Users/coreysmith/.gradle/caches/transforms-3/a7fc200aafe2543ef477c57d1cb5e9e9/transformed/jetified-camera-camera2-1.0.0-beta05/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-camera2:1.0.0-beta05] /Users/coreysmith/.gradle/caches/transforms-3/a7fc200aafe2543ef477c57d1cb5e9e9/transformed/jetified-camera-camera2-1.0.0-beta05/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-lifecycle:1.0.0-beta05] /Users/coreysmith/.gradle/caches/transforms-3/80ea61fc1c12b9fa933e991d6780fe91/transformed/jetified-camera-lifecycle-1.0.0-beta05/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-lifecycle:1.0.0-beta05] /Users/coreysmith/.gradle/caches/transforms-3/80ea61fc1c12b9fa933e991d6780fe91/transformed/jetified-camera-lifecycle-1.0.0-beta05/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-core:1.0.0-beta05] /Users/coreysmith/.gradle/caches/transforms-3/15b481df7fbd5fb3b1c6e059efc6cf5c/transformed/jetified-camera-core-1.0.0-beta05/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-core:1.0.0-beta05] /Users/coreysmith/.gradle/caches/transforms-3/15b481df7fbd5fb3b1c6e059efc6cf5c/transformed/jetified-camera-core-1.0.0-beta05/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-mlkit-text-recognition:18.0.0] /Users/coreysmith/.gradle/caches/transforms-3/cd14e98b50384ff01330e648e2025a33/transformed/jetified-play-services-mlkit-text-recognition-18.0.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-mlkit-text-recognition:18.0.0] /Users/coreysmith/.gradle/caches/transforms-3/cd14e98b50384ff01330e648e2025a33/transformed/jetified-play-services-mlkit-text-recognition-18.0.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:language-id:17.0.3] /Users/coreysmith/.gradle/caches/transforms-3/382323ad0de5f14012e8340f21027624/transformed/jetified-language-id-17.0.3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:language-id:17.0.3] /Users/coreysmith/.gradle/caches/transforms-3/382323ad0de5f14012e8340f21027624/transformed/jetified-language-id-17.0.3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:translate:17.0.0] /Users/coreysmith/.gradle/caches/transforms-3/6ae84341440be370ead2053e3eaae306/transformed/jetified-translate-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:translate:17.0.0] /Users/coreysmith/.gradle/caches/transforms-3/6ae84341440be370ead2053e3eaae306/transformed/jetified-translate-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/coreysmith/.gradle/caches/transforms-3/b344510b0d7c85325f47df8a6378caa5/transformed/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/coreysmith/.gradle/caches/transforms-3/b344510b0d7c85325f47df8a6378caa5/transformed/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/coreysmith/.gradle/caches/transforms-3/09b3f3f906e58580232ad8b2bb1f0333/transformed/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/coreysmith/.gradle/caches/transforms-3/09b3f3f906e58580232ad8b2bb1f0333/transformed/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/coreysmith/.gradle/caches/transforms-3/c09d2735aa6022ddcc187cd65b46489f/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/coreysmith/.gradle/caches/transforms-3/c09d2735aa6022ddcc187cd65b46489f/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/coreysmith/.gradle/caches/transforms-3/36cd169062da3f001660699df66ad493/transformed/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/coreysmith/.gradle/caches/transforms-3/36cd169062da3f001660699df66ad493/transformed/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/coreysmith/.gradle/caches/transforms-3/b539a151605dee6f4adaa3f52f7ab73f/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/coreysmith/.gradle/caches/transforms-3/b539a151605dee6f4adaa3f52f7ab73f/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-mlkit-text-recognition-common:17.0.0] /Users/coreysmith/.gradle/caches/transforms-3/59eb51f9bdb68e96f10216731ebdb8c5/transformed/jetified-play-services-mlkit-text-recognition-common-17.0.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-mlkit-text-recognition-common:17.0.0] /Users/coreysmith/.gradle/caches/transforms-3/59eb51f9bdb68e96f10216731ebdb8c5/transformed/jetified-play-services-mlkit-text-recognition-common-17.0.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-mlkit-language-id:17.0.0-beta1] /Users/coreysmith/.gradle/caches/transforms-3/cf15f36fc7cdbd5a39c0bc6eab91f135/transformed/jetified-play-services-mlkit-language-id-17.0.0-beta1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-mlkit-language-id:17.0.0-beta1] /Users/coreysmith/.gradle/caches/transforms-3/cf15f36fc7cdbd5a39c0bc6eab91f135/transformed/jetified-play-services-mlkit-language-id-17.0.0-beta1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:vision-common:17.0.0] /Users/coreysmith/.gradle/caches/transforms-3/b95d4277f2cc5a8b78ccbfd73d626a97/transformed/jetified-vision-common-17.0.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:vision-common:17.0.0] /Users/coreysmith/.gradle/caches/transforms-3/b95d4277f2cc5a8b78ccbfd73d626a97/transformed/jetified-vision-common-17.0.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:common:18.0.0] /Users/coreysmith/.gradle/caches/transforms-3/bff048da779e42c3183f1593e068c878/transformed/jetified-common-18.0.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:common:18.0.0] /Users/coreysmith/.gradle/caches/transforms-3/bff048da779e42c3183f1593e068c878/transformed/jetified-common-18.0.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/coreysmith/.gradle/caches/transforms-3/cdfcf99491bbc7df1a3e3ad485588cfb/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/coreysmith/.gradle/caches/transforms-3/cdfcf99491bbc7df1a3e3ad485588cfb/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.mlkit:vision-interfaces:16.0.0] /Users/coreysmith/.gradle/caches/transforms-3/1366a81b9268d3c61efcac236b83633f/transformed/jetified-vision-interfaces-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:vision-interfaces:16.0.0] /Users/coreysmith/.gradle/caches/transforms-3/1366a81b9268d3c61efcac236b83633f/transformed/jetified-vision-interfaces-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/coreysmith/.gradle/caches/transforms-3/65187d98d2324b6496ba67b429adf4ba/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/coreysmith/.gradle/caches/transforms-3/65187d98d2324b6496ba67b429adf4ba/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/coreysmith/.gradle/caches/transforms-3/dd84e01e8168e0581db4045ca48fa1ad/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/coreysmith/.gradle/caches/transforms-3/dd84e01e8168e0581db4045ca48fa1ad/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.2.4] /Users/coreysmith/.gradle/caches/transforms-3/0f6a0697c20526110ef5674ab5effe6f/transformed/fragment-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] /Users/coreysmith/.gradle/caches/transforms-3/0f6a0697c20526110ef5674ab5effe6f/transformed/fragment-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/coreysmith/.gradle/caches/transforms-3/e50b98941838fdeec44b222208ed69c8/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/coreysmith/.gradle/caches/transforms-3/e50b98941838fdeec44b222208ed69c8/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/coreysmith/.gradle/caches/transforms-3/03e92bb52be974a46bbabc42c5d68110/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/coreysmith/.gradle/caches/transforms-3/03e92bb52be974a46bbabc42c5d68110/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/coreysmith/.gradle/caches/transforms-3/b652751b08e62bd943fd9a99ba323bfd/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/coreysmith/.gradle/caches/transforms-3/b652751b08e62bd943fd9a99ba323bfd/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/coreysmith/.gradle/caches/transforms-3/2b690c2cd7d00dd72d2a8fa57cae2e86/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/coreysmith/.gradle/caches/transforms-3/2b690c2cd7d00dd72d2a8fa57cae2e86/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/coreysmith/.gradle/caches/transforms-3/2db1395ff0cece4d55685f16e68e76e9/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/coreysmith/.gradle/caches/transforms-3/2db1395ff0cece4d55685f16e68e76e9/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] /Users/coreysmith/.gradle/caches/transforms-3/c0d0fe984c27eda67e2f82164aab81b1/transformed/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/coreysmith/.gradle/caches/transforms-3/c0d0fe984c27eda67e2f82164aab81b1/transformed/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] /Users/coreysmith/.gradle/caches/transforms-3/4e5cdf88176b6c876a418af428e018cc/transformed/core-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] /Users/coreysmith/.gradle/caches/transforms-3/4e5cdf88176b6c876a418af428e018cc/transformed/core-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/coreysmith/.gradle/caches/transforms-3/e44860c089a7f3e22cf5c8a264e305eb/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/coreysmith/.gradle/caches/transforms-3/e44860c089a7f3e22cf5c8a264e305eb/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/coreysmith/.gradle/caches/transforms-3/6847cd5bb73396666caad04c0837f0c1/transformed/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/coreysmith/.gradle/caches/transforms-3/6847cd5bb73396666caad04c0837f0c1/transformed/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/coreysmith/.gradle/caches/transforms-3/b120d97c46250594c1477bf0a175066c/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/coreysmith/.gradle/caches/transforms-3/b120d97c46250594c1477bf0a175066c/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/coreysmith/.gradle/caches/transforms-3/55673aa235ab7da235e68b64c00033e8/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/coreysmith/.gradle/caches/transforms-3/55673aa235ab7da235e68b64c00033e8/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/coreysmith/.gradle/caches/transforms-3/d81273881098097cc9bc15fa7e44fa1e/transformed/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/coreysmith/.gradle/caches/transforms-3/d81273881098097cc9bc15fa7e44fa1e/transformed/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/coreysmith/.gradle/caches/transforms-3/caeb875bff1635cc555d5ef41c744f69/transformed/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/coreysmith/.gradle/caches/transforms-3/caeb875bff1635cc555d5ef41c744f69/transformed/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/coreysmith/.gradle/caches/transforms-3/8f2ec2554e605b061f551bb30f40c2fb/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/coreysmith/.gradle/caches/transforms-3/8f2ec2554e605b061f551bb30f40c2fb/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/coreysmith/.gradle/caches/transforms-3/0cf1c05547737ec5a1d0af79d20f1bfb/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/coreysmith/.gradle/caches/transforms-3/0cf1c05547737ec5a1d0af79d20f1bfb/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/coreysmith/.gradle/caches/transforms-3/b0360e62cf78022732a6f43ea38c7a7e/transformed/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/coreysmith/.gradle/caches/transforms-3/b0360e62cf78022732a6f43ea38c7a7e/transformed/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/coreysmith/.gradle/caches/transforms-3/b66a230077ccae02e4955d5cb3cc545c/transformed/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/coreysmith/.gradle/caches/transforms-3/b66a230077ccae02e4955d5cb3cc545c/transformed/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:16.1.0] /Users/coreysmith/.gradle/caches/transforms-3/b2bb380aeee929009e693c2ad562816c/transformed/jetified-firebase-components-16.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.1.0] /Users/coreysmith/.gradle/caches/transforms-3/b2bb380aeee929009e693c2ad562816c/transformed/jetified-firebase-components-16.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/coreysmith/.gradle/caches/transforms-3/a17b82e944bcf5971c3cde9d8969d203/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/coreysmith/.gradle/caches/transforms-3/a17b82e944bcf5971c3cde9d8969d203/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/coreysmith/.gradle/caches/transforms-3/c496b1473ed11567c23a01df0911c21b/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/coreysmith/.gradle/caches/transforms-3/c496b1473ed11567c23a01df0911c21b/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] /Users/coreysmith/.gradle/caches/transforms-3/4406b820e1693fbefcd58799d61734cd/transformed/jetified-transport-api-2.2.1/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] /Users/coreysmith/.gradle/caches/transforms-3/4406b820e1693fbefcd58799d61734cd/transformed/jetified-transport-api-2.2.1/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] /Users/coreysmith/.gradle/caches/transforms-3/64cdaeb60738d3f78c9720a7d4f7afaf/transformed/jetified-firebase-encoders-json-17.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] /Users/coreysmith/.gradle/caches/transforms-3/64cdaeb60738d3f78c9720a7d4f7afaf/transformed/jetified-firebase-encoders-json-17.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/coreysmith/.gradle/caches/transforms-3/a537a0ea9bac11cd8fbc28465f06f04b/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/coreysmith/.gradle/caches/transforms-3/a537a0ea9bac11cd8fbc28465f06f04b/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/coreysmith/.gradle/caches/transforms-3/1e72ed74fbfdc459ff340250da41ac36/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/coreysmith/.gradle/caches/transforms-3/1e72ed74fbfdc459ff340250da41ac36/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0-rc01] /Users/coreysmith/.gradle/caches/transforms-3/57fc9cd982d1ddf5f54c03fafa5efddd/transformed/jetified-annotation-experimental-1.0.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0-rc01] /Users/coreysmith/.gradle/caches/transforms-3/57fc9cd982d1ddf5f54c03fafa5efddd/transformed/jetified-annotation-experimental-1.0.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/coreysmith/.gradle/caches/transforms-3/98cf285c8b82c074dd2a265622dbe743/transformed/jetified-image-1.0.0-beta1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/coreysmith/.gradle/caches/transforms-3/98cf285c8b82c074dd2a265622dbe743/transformed/jetified-image-1.0.0-beta1/AndroidManifest.xml:5:5-44
+INJECTED from /Users/coreysmith/Downloads/mlkit-android-master/translate/starter/app/src/main/AndroidManifest.xml
+INJECTED from /Users/coreysmith/Downloads/mlkit-android-master/translate/starter/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/coreysmith/Downloads/mlkit-android-master/translate/starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/coreysmith/Downloads/mlkit-android-master/translate/starter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/coreysmith/Downloads/mlkit-android-master/translate/starter/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/coreysmith/Downloads/mlkit-android-master/translate/starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/coreysmith/Downloads/mlkit-android-master/translate/starter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/coreysmith/Downloads/mlkit-android-master/translate/starter/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.mlkit:translate:17.0.0] /Users/coreysmith/.gradle/caches/transforms-3/6ae84341440be370ead2053e3eaae306/transformed/jetified-translate-17.0.0/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/coreysmith/.gradle/caches/transforms-3/a17b82e944bcf5971c3cde9d8969d203/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/coreysmith/.gradle/caches/transforms-3/a17b82e944bcf5971c3cde9d8969d203/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/coreysmith/.gradle/caches/transforms-3/c496b1473ed11567c23a01df0911c21b/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/coreysmith/.gradle/caches/transforms-3/c496b1473ed11567c23a01df0911c21b/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.mlkit:translate:17.0.0] /Users/coreysmith/.gradle/caches/transforms-3/6ae84341440be370ead2053e3eaae306/transformed/jetified-translate-17.0.0/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.mlkit:translate:17.0.0] /Users/coreysmith/.gradle/caches/transforms-3/6ae84341440be370ead2053e3eaae306/transformed/jetified-translate-17.0.0/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/coreysmith/.gradle/caches/transforms-3/a17b82e944bcf5971c3cde9d8969d203/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/coreysmith/.gradle/caches/transforms-3/a17b82e944bcf5971c3cde9d8969d203/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from [com.google.mlkit:translate:17.0.0] /Users/coreysmith/.gradle/caches/transforms-3/6ae84341440be370ead2053e3eaae306/transformed/jetified-translate-17.0.0/AndroidManifest.xml:8:22-64
+service#com.google.mlkit.common.internal.MlKitComponentDiscoveryService
+ADDED from [com.google.mlkit:translate:17.0.0] /Users/coreysmith/.gradle/caches/transforms-3/6ae84341440be370ead2053e3eaae306/transformed/jetified-translate-17.0.0/AndroidManifest.xml:11:9-17:19
+MERGED from [com.google.android.gms:play-services-mlkit-text-recognition-common:17.0.0] /Users/coreysmith/.gradle/caches/transforms-3/59eb51f9bdb68e96f10216731ebdb8c5/transformed/jetified-play-services-mlkit-text-recognition-common-17.0.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.android.gms:play-services-mlkit-text-recognition-common:17.0.0] /Users/coreysmith/.gradle/caches/transforms-3/59eb51f9bdb68e96f10216731ebdb8c5/transformed/jetified-play-services-mlkit-text-recognition-common-17.0.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.android.gms:play-services-mlkit-language-id:17.0.0-beta1] /Users/coreysmith/.gradle/caches/transforms-3/cf15f36fc7cdbd5a39c0bc6eab91f135/transformed/jetified-play-services-mlkit-language-id-17.0.0-beta1/AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.android.gms:play-services-mlkit-language-id:17.0.0-beta1] /Users/coreysmith/.gradle/caches/transforms-3/cf15f36fc7cdbd5a39c0bc6eab91f135/transformed/jetified-play-services-mlkit-language-id-17.0.0-beta1/AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.mlkit:vision-common:17.0.0] /Users/coreysmith/.gradle/caches/transforms-3/b95d4277f2cc5a8b78ccbfd73d626a97/transformed/jetified-vision-common-17.0.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:vision-common:17.0.0] /Users/coreysmith/.gradle/caches/transforms-3/b95d4277f2cc5a8b78ccbfd73d626a97/transformed/jetified-vision-common-17.0.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:common:18.0.0] /Users/coreysmith/.gradle/caches/transforms-3/bff048da779e42c3183f1593e068c878/transformed/jetified-common-18.0.0/AndroidManifest.xml:15:9-23:19
+MERGED from [com.google.mlkit:common:18.0.0] /Users/coreysmith/.gradle/caches/transforms-3/bff048da779e42c3183f1593e068c878/transformed/jetified-common-18.0.0/AndroidManifest.xml:15:9-23:19
+	android:exported
+		ADDED from [com.google.mlkit:translate:17.0.0] /Users/coreysmith/.gradle/caches/transforms-3/6ae84341440be370ead2053e3eaae306/transformed/jetified-translate-17.0.0/AndroidManifest.xml:13:13-37
+	tools:targetApi
+		ADDED from [com.google.mlkit:common:18.0.0] /Users/coreysmith/.gradle/caches/transforms-3/bff048da779e42c3183f1593e068c878/transformed/jetified-common-18.0.0/AndroidManifest.xml:19:13-32
+	android:directBootAware
+		ADDED from [com.google.mlkit:common:18.0.0] /Users/coreysmith/.gradle/caches/transforms-3/bff048da779e42c3183f1593e068c878/transformed/jetified-common-18.0.0/AndroidManifest.xml:17:13-43
+	android:name
+		ADDED from [com.google.mlkit:translate:17.0.0] /Users/coreysmith/.gradle/caches/transforms-3/6ae84341440be370ead2053e3eaae306/transformed/jetified-translate-17.0.0/AndroidManifest.xml:12:13-91
+meta-data#com.google.firebase.components:com.google.mlkit.nl.translate.NaturalLanguageTranslateRegistrar
+ADDED from [com.google.mlkit:translate:17.0.0] /Users/coreysmith/.gradle/caches/transforms-3/6ae84341440be370ead2053e3eaae306/transformed/jetified-translate-17.0.0/AndroidManifest.xml:14:13-16:85
+	android:value
+		ADDED from [com.google.mlkit:translate:17.0.0] /Users/coreysmith/.gradle/caches/transforms-3/6ae84341440be370ead2053e3eaae306/transformed/jetified-translate-17.0.0/AndroidManifest.xml:16:17-82
+	android:name
+		ADDED from [com.google.mlkit:translate:17.0.0] /Users/coreysmith/.gradle/caches/transforms-3/6ae84341440be370ead2053e3eaae306/transformed/jetified-translate-17.0.0/AndroidManifest.xml:15:17-126
+meta-data#com.google.firebase.components:com.google.mlkit.vision.text.internal.TextRegistrar
+ADDED from [com.google.android.gms:play-services-mlkit-text-recognition-common:17.0.0] /Users/coreysmith/.gradle/caches/transforms-3/59eb51f9bdb68e96f10216731ebdb8c5/transformed/jetified-play-services-mlkit-text-recognition-common-17.0.0/AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-mlkit-text-recognition-common:17.0.0] /Users/coreysmith/.gradle/caches/transforms-3/59eb51f9bdb68e96f10216731ebdb8c5/transformed/jetified-play-services-mlkit-text-recognition-common-17.0.0/AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-mlkit-text-recognition-common:17.0.0] /Users/coreysmith/.gradle/caches/transforms-3/59eb51f9bdb68e96f10216731ebdb8c5/transformed/jetified-play-services-mlkit-text-recognition-common-17.0.0/AndroidManifest.xml:13:17-114
+meta-data#com.google.firebase.components:com.google.mlkit.nl.languageid.internal.LanguageIdRegistrar
+ADDED from [com.google.android.gms:play-services-mlkit-language-id:17.0.0-beta1] /Users/coreysmith/.gradle/caches/transforms-3/cf15f36fc7cdbd5a39c0bc6eab91f135/transformed/jetified-play-services-mlkit-language-id-17.0.0-beta1/AndroidManifest.xml:11:13-13:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-mlkit-language-id:17.0.0-beta1] /Users/coreysmith/.gradle/caches/transforms-3/cf15f36fc7cdbd5a39c0bc6eab91f135/transformed/jetified-play-services-mlkit-language-id-17.0.0-beta1/AndroidManifest.xml:13:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-mlkit-language-id:17.0.0-beta1] /Users/coreysmith/.gradle/caches/transforms-3/cf15f36fc7cdbd5a39c0bc6eab91f135/transformed/jetified-play-services-mlkit-language-id-17.0.0-beta1/AndroidManifest.xml:12:17-122
+meta-data#com.google.firebase.components:com.google.mlkit.vision.common.internal.VisionCommonRegistrar
+ADDED from [com.google.mlkit:vision-common:17.0.0] /Users/coreysmith/.gradle/caches/transforms-3/b95d4277f2cc5a8b78ccbfd73d626a97/transformed/jetified-vision-common-17.0.0/AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.mlkit:vision-common:17.0.0] /Users/coreysmith/.gradle/caches/transforms-3/b95d4277f2cc5a8b78ccbfd73d626a97/transformed/jetified-vision-common-17.0.0/AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.mlkit:vision-common:17.0.0] /Users/coreysmith/.gradle/caches/transforms-3/b95d4277f2cc5a8b78ccbfd73d626a97/transformed/jetified-vision-common-17.0.0/AndroidManifest.xml:13:17-124
+provider#com.google.mlkit.common.internal.MlKitInitProvider
+ADDED from [com.google.mlkit:common:18.0.0] /Users/coreysmith/.gradle/caches/transforms-3/bff048da779e42c3183f1593e068c878/transformed/jetified-common-18.0.0/AndroidManifest.xml:9:9-13:38
+	android:authorities
+		ADDED from [com.google.mlkit:common:18.0.0] /Users/coreysmith/.gradle/caches/transforms-3/bff048da779e42c3183f1593e068c878/transformed/jetified-common-18.0.0/AndroidManifest.xml:11:13-69
+	android:exported
+		ADDED from [com.google.mlkit:common:18.0.0] /Users/coreysmith/.gradle/caches/transforms-3/bff048da779e42c3183f1593e068c878/transformed/jetified-common-18.0.0/AndroidManifest.xml:12:13-37
+	android:initOrder
+		ADDED from [com.google.mlkit:common:18.0.0] /Users/coreysmith/.gradle/caches/transforms-3/bff048da779e42c3183f1593e068c878/transformed/jetified-common-18.0.0/AndroidManifest.xml:13:13-35
+	android:name
+		ADDED from [com.google.mlkit:common:18.0.0] /Users/coreysmith/.gradle/caches/transforms-3/bff048da779e42c3183f1593e068c878/transformed/jetified-common-18.0.0/AndroidManifest.xml:10:13-78
+meta-data#com.google.firebase.components:com.google.mlkit.common.internal.CommonComponentRegistrar
+ADDED from [com.google.mlkit:common:18.0.0] /Users/coreysmith/.gradle/caches/transforms-3/bff048da779e42c3183f1593e068c878/transformed/jetified-common-18.0.0/AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.mlkit:common:18.0.0] /Users/coreysmith/.gradle/caches/transforms-3/bff048da779e42c3183f1593e068c878/transformed/jetified-common-18.0.0/AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.mlkit:common:18.0.0] /Users/coreysmith/.gradle/caches/transforms-3/bff048da779e42c3183f1593e068c878/transformed/jetified-common-18.0.0/AndroidManifest.xml:21:17-120
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/coreysmith/.gradle/caches/transforms-3/cdfcf99491bbc7df1a3e3ad485588cfb/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/coreysmith/.gradle/caches/transforms-3/cdfcf99491bbc7df1a3e3ad485588cfb/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/coreysmith/.gradle/caches/transforms-3/cdfcf99491bbc7df1a3e3ad485588cfb/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/coreysmith/.gradle/caches/transforms-3/cdfcf99491bbc7df1a3e3ad485588cfb/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.0.0] /Users/coreysmith/.gradle/caches/transforms-3/dd84e01e8168e0581db4045ca48fa1ad/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] /Users/coreysmith/.gradle/caches/transforms-3/dd84e01e8168e0581db4045ca48fa1ad/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] /Users/coreysmith/.gradle/caches/transforms-3/dd84e01e8168e0581db4045ca48fa1ad/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:22:13-58
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/coreysmith/.gradle/caches/transforms-3/e44860c089a7f3e22cf5c8a264e305eb/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/coreysmith/.gradle/caches/transforms-3/e44860c089a7f3e22cf5c8a264e305eb/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:27:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/coreysmith/.gradle/caches/transforms-3/e44860c089a7f3e22cf5c8a264e305eb/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/coreysmith/.gradle/caches/transforms-3/e44860c089a7f3e22cf5c8a264e305eb/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/coreysmith/.gradle/caches/transforms-3/e44860c089a7f3e22cf5c8a264e305eb/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:26:13-79
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/coreysmith/.gradle/caches/transforms-3/a17b82e944bcf5971c3cde9d8969d203/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/coreysmith/.gradle/caches/transforms-3/c496b1473ed11567c23a01df0911c21b/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/coreysmith/.gradle/caches/transforms-3/c496b1473ed11567c23a01df0911c21b/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/coreysmith/.gradle/caches/transforms-3/a17b82e944bcf5971c3cde9d8969d203/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/coreysmith/.gradle/caches/transforms-3/a17b82e944bcf5971c3cde9d8969d203/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/coreysmith/.gradle/caches/transforms-3/a17b82e944bcf5971c3cde9d8969d203/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/coreysmith/.gradle/caches/transforms-3/a17b82e944bcf5971c3cde9d8969d203/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/coreysmith/.gradle/caches/transforms-3/a17b82e944bcf5971c3cde9d8969d203/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/coreysmith/.gradle/caches/transforms-3/c496b1473ed11567c23a01df0911c21b/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/coreysmith/.gradle/caches/transforms-3/c496b1473ed11567c23a01df0911c21b/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/coreysmith/.gradle/caches/transforms-3/c496b1473ed11567c23a01df0911c21b/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/coreysmith/.gradle/caches/transforms-3/c496b1473ed11567c23a01df0911c21b/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/coreysmith/.gradle/caches/transforms-3/c496b1473ed11567c23a01df0911c21b/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/coreysmith/.gradle/caches/transforms-3/c496b1473ed11567c23a01df0911c21b/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/coreysmith/.gradle/caches/transforms-3/c496b1473ed11567c23a01df0911c21b/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:33:13-132
